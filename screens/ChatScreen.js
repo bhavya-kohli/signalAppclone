@@ -205,7 +205,7 @@ const styles = StyleSheet.create({
     },
     recieverText:{
         color:"black",
-        fontWeight:"700",
+        fontWeight:"750",
         marginLeft:10
     }
 });
